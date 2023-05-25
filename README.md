@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daveerr / David Rodriguez
 - 👀 I’m interested in building websites and apps.
-- 🌱 I’m currently learning HTML/CSS & Python.
+- 🌱 I’m currently learning Full Stack with UNCC bootcamp.
 - 💞️ I’m looking to collaborate on all sorts of diffrent projects.
 - 📫 How to reach me Daviderrr10@gmail.com
 
