@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Daveerr / David Rodriguez
 - 👀 I’m interested in building websites.
 - 🌱 I’m currently learning Full Stack.
-- 💞️ I’m looking to collaborate on all sorts of diffrent projects.
+- 💞️ I’m looking to collaborate on all sorts of different projects.
 - 📫 How to reach me Daviderrr10@gmail.com
 
 <!---
